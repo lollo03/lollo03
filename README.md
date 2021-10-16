@@ -20,4 +20,9 @@ Clicca qua per visitare il mio [blog](https://lollo03.github.io).
 
 <br/>
 
+#### Ecco i miei post più recenti:
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 #### Qua sotto puoi trovare alcuni dei miei repository, dacci un'occhiata!
