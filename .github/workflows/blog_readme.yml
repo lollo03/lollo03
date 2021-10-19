@@ -3,7 +3,6 @@ name: Update this repo's README with blog posts
 on:
   schedule:
     - cron: 0 13 * * *
-  workflow_dispatch:
 
 jobs:
   update:
