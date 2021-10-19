@@ -22,6 +22,7 @@ Clicca qua per visitare il mio [blog](https://lollo03.github.io).
 
 #### Ecco i miei post più recenti:
 <!--START_SECTION:feed-->
+* [Bonsai, il browser senza distrazioni](https:&#x2F;&#x2F;lollo03.github.io)
 * [Syncthing](https:&#x2F;&#x2F;lollo03.github.io)
 * [MacOS for dummies](https:&#x2F;&#x2F;lollo03.github.io)
 * [Come ho creato questo sito](https:&#x2F;&#x2F;lollo03.github.io)
