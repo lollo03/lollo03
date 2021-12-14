@@ -24,11 +24,11 @@ Sono Lorenzo, un ragazzo di 18 con la passione per l'informatica e la fotografia
 
 #### Ecco i miei post più recenti:
 <!--START_SECTION:feed-->
-* [Uptime kuma, il monitoring fatto semplice](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;05%20-%20Uptime%20kuma%2C%20il%20monitoring%20fatto%20semplice.md)
+* [Tailwind CSS il framework definitivo](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;06%20-%20Tailwind%20CSS%2C%20il%20framework%20definitivo.md)
+* [Uptime Kuma, il monitoring fatto semplice](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;05%20-%20Uptime%20kuma%2C%20il%20monitoring%20fatto%20semplice.md)
 * [Il modo giusto di cercare le informazioni](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;04%20-%20Bonsai%2C%20il%20browser%20senza%20distrazioni.md)
 * [La soluzione definitiva per la sincronizzazione dei file](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;03%20-%20Syncthing.md)
 * [Una raccolta di tool che uso giornalmente sul mio Mac](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;02-MacOS%20for%20dummies.md)
-* [Breve storia di come ho ideato e creato il sito](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;01-Come%20ho%20creato%20questo%20sito.md)
 <!--END_SECTION:feed-->
 
 #### Qua sotto puoi trovare alcuni dei miei repository, dacci un'occhiata!
