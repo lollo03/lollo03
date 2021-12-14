@@ -13,3 +13,4 @@ jobs:
         with:
           feed-url: https://lollo03.github.io/lollo03.github.io-rss/rss
           readme-section: feed
+          branch: main
