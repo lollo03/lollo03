@@ -24,11 +24,11 @@ Sono Lorenzo, un ragazzo di 18 con la passione per l'informatica e la fotografia
 
 #### Ecco i miei post più recenti:
 <!--START_SECTION:feed-->
+* [Perchè il tuo computer non sa fare i calcoli](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;08%20-%20Perch%C3%A8%20il%20tuo%20computer%20non%20sa%20fare%20calcoli.md)
 * [Prisma, la soluzione definitiva per i database](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;07%20-%20Prisma%2C%20la%20soluzione%20definitiva%20per%20i%20database.md)
 * [Tailwind CSS il framework definitivo](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;06%20-%20Tailwind%20CSS%2C%20il%20framework%20definitivo.md)
 * [Uptime Kuma, il monitoring fatto semplice](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;05%20-%20Uptime%20kuma%2C%20il%20monitoring%20fatto%20semplice.md)
 * [Il modo giusto di cercare le informazioni](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;04%20-%20Bonsai%2C%20il%20browser%20senza%20distrazioni.md)
-* [La soluzione definitiva per la sincronizzazione dei file](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;03%20-%20Syncthing.md)
 <!--END_SECTION:feed-->
 
 #### Qua sotto puoi trovare alcuni dei miei repository, dacci un'occhiata!
