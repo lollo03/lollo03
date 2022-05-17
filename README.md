@@ -16,8 +16,7 @@ Sono Lorenzo, un ragazzo di 18 con la passione per l'informatica e la fotografia
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" src="https://img.icons8.com/color-glass/26/000000/github.png"/>
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg17d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 <img align="left" src="https://img.icons8.com/color/26/000000/python--v1.png"/>
 <img aling="left" src="https://img.icons8.com/fluency/26/000000/arduino.png"/>
 <br/>
