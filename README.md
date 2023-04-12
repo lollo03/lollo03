@@ -1,6 +1,6 @@
 # Ciao, e benvenuto sul mio profilo!
 
-Sono Lorenzo, un ragazzo di 18 con la passione per l'informatica e la fotografia. Qua troverai una raccolta dei progetti che ho deciso di rendere pubblici, dacci uno sguardo! Non dimenticare di visitare il mio [blog](https://lollo03.github.io) e di seguirmi sui miei social!
+Sono Lorenzo, un ragazzo di 20 anni con la passione per l'informatica e la fotografia. Qua troverai una raccolta dei progetti che ho deciso di rendere pubblici, dacci uno sguardo! Non dimenticare di visitare il mio [blog](https://lollo03.github.io) e di seguirmi sui miei social!
 
 ## I miei social:
 <a href="https://www.instagram.com/lolloandr/"><img align="left" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
