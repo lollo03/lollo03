@@ -23,11 +23,11 @@ Sono Lorenzo, un ragazzo di 20 anni con la passione per l'informatica e la fotog
 
 #### Ecco i miei post più recenti:
 <!--START_SECTION:feed-->
+* [Homelab struggle 2](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;11%20-%20Homelab%20struggle%2C%20parte%202.md)
 * [Homelab struggle](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;10%20-%20Homelab%20struggle%2C%20parte%201.md)
 * [Il metodo Monte Carlo](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;09%20-%20Il%20metodo%20Monte%20Carlo.md)
 * [Perchè il tuo computer non sa fare i calcoli](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;08%20-%20Perch%C3%A8%20il%20tuo%20computer%20non%20sa%20fare%20calcoli.md)
 * [Prisma, la soluzione definitiva per i database](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;07%20-%20Prisma%2C%20la%20soluzione%20definitiva%20per%20i%20database.md)
-* [Tailwind CSS il framework definitivo](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;06%20-%20Tailwind%20CSS%2C%20il%20framework%20definitivo.md)
 <!--END_SECTION:feed-->
 
 #### Qua sotto puoi trovare alcuni dei miei repository, dacci un'occhiata!
