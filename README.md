@@ -23,11 +23,11 @@ Sono Lorenzo, un ragazzo di 20 anni con la passione per l'informatica e la fotog
 
 #### Ecco i miei post più recenti:
 <!--START_SECTION:feed-->
+* [Monitoraggio qualità dell&#39;aria on a budget](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;13-air-monitoring&#x2F;)
+* [Il nuovo blog, hugo e static site generation](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;12-il_nuovo_blog&#x2F;)
 * [Homelab struggle, parte 2 - OS](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;11---homelab-struggle-parte-2&#x2F;)
 * [Homelab struggle, parte 1](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;10---homelab-struggle-parte-1&#x2F;)
 * [Il metodo Monte Carlo](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;09---il-metodo-monte-carlo&#x2F;)
-* [Perché il tuo computer non sa fare i calcoli](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;08---perch%C3%A8-il-tuo-computer-non-sa-fare-calcoli&#x2F;)
-* [Prisma, la soluzione definitiva per i database](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;07---prisma-la-soluzione-definitiva-per-i-database&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Qua sotto puoi trovare alcuni dei miei repository, dacci un'occhiata!
