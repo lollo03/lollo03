@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://lollo03.github.io/lollo03.github.io-rss/rss
+          feed-url: https://www.lolloandr.com/blog/index.xml
           readme-section: feed
           branch: main
