@@ -23,11 +23,11 @@ Sono Lorenzo, un ragazzo di 20 anni con la passione per l'informatica e la fotog
 
 #### Ecco i miei post più recenti:
 <!--START_SECTION:feed-->
-* [Homelab struggle 2](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;11%20-%20Homelab%20struggle%2C%20parte%202.md)
-* [Homelab struggle](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;10%20-%20Homelab%20struggle%2C%20parte%201.md)
-* [Il metodo Monte Carlo](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;09%20-%20Il%20metodo%20Monte%20Carlo.md)
-* [Perchè il tuo computer non sa fare i calcoli](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;08%20-%20Perch%C3%A8%20il%20tuo%20computer%20non%20sa%20fare%20calcoli.md)
-* [Prisma, la soluzione definitiva per i database](https:&#x2F;&#x2F;github.com&#x2F;lollo03&#x2F;lollo03.github.io&#x2F;blob&#x2F;articles&#x2F;07%20-%20Prisma%2C%20la%20soluzione%20definitiva%20per%20i%20database.md)
+* [Homelab struggle, parte 2 - OS](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;11---homelab-struggle-parte-2&#x2F;)
+* [Homelab struggle, parte 1](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;10---homelab-struggle-parte-1&#x2F;)
+* [Il metodo Monte Carlo](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;09---il-metodo-monte-carlo&#x2F;)
+* [Perché il tuo computer non sa fare i calcoli](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;08---perch%C3%A8-il-tuo-computer-non-sa-fare-calcoli&#x2F;)
+* [Prisma, la soluzione definitiva per i database](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;07---prisma-la-soluzione-definitiva-per-i-database&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Qua sotto puoi trovare alcuni dei miei repository, dacci un'occhiata!
