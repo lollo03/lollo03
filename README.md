@@ -36,11 +36,11 @@ Don't forget to check out my [blog](https://www.lolloandr.com/blog/) and follow 
 
 #### Here are my latest blog posts:
 <!--START_SECTION:feed-->
-* [I use Arch (btw) - part 2](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;15-arch-pt2&#x2F;)
-* [I use Arch (btw) - part 1](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;14-arch-pt1&#x2F;)
-* [Air quality monitoring on a budget](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;13-air-monitoring&#x2F;)
-* [The new blog, Hugo and static site generation](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;12-il_nuovo_blog&#x2F;)
-* [Homelab struggle, part 2 - OS](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;11---homelab-struggle-parte-2&#x2F;)
+* [POuL - Corso home lab 2025](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;17-homelab-corso&#x2F;)
+* [Un nuovo approccio al self-hosting: purpose-built hardware e NixOS](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;16-nixos-linuxday&#x2F;)
+* [I use Arch (btw) - parte 2](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;15-arch-pt2&#x2F;)
+* [I use Arch (btw) - parte 1](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;14-arch-pt1&#x2F;)
+* [Monitoraggio qualità dell&#39;aria on a budget](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;13-air-monitoring&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Below you can find some of my repositories, check them out!
