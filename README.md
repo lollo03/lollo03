@@ -1,7 +1,7 @@
 # Hi, and welcome to my profile!
 
 I'm Lorenzo, a 22-year-old guy passionate about Linux, self-hosting, IT, and photography.  
-I'm also the Vice President of [POuL](https://poul.org/), an association dedicated to promoting open-source culture.  
+I'm also an ex Vice President of [POuL](https://poul.org/), an association dedicated to promoting open-source culture.  
 Throughout my journey, I've also delivered several talks on topics related to open source, Linux, and self-hosting.  
 Here you'll find a collection of my personal projects — take a look!  
 You can also find more of my work on the [POuL GitLab](https://gitlab.poul.org/lolloandr)
