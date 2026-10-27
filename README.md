@@ -40,11 +40,11 @@ Don't forget to check out my [blog](https://www.lolloandr.com/blog/) and follow 
 
 #### Here are my latest blog posts:
 <!--START_SECTION:feed-->
+* [Linux day 2026 - Meshtastic 101](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;24-meshtastic-linuxday&#x2F;)
 * [Come (cercare) di organizzare un Linux Day](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;23-organizzare-ld-26&#x2F;)
 * [The few FOSS apps that you absolutely need on your Android phone](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;22-android-must-have&#x2F;)
 * [My minirack!](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;21-minirack&#x2F;)
 * [Air quality and presence detection for my minirack!](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;20-minirack-sensor&#x2F;)
-* [Dal GDPR al Grande Fratello? L’Europa di fronte alla sorveglianza digitale](https:&#x2F;&#x2F;www.lolloandr.com&#x2F;blog&#x2F;posts&#x2F;17-gdpr-linuxday&#x2F;)
 <!--END_SECTION:feed-->
 
 #### Below you can find some of my repositories, check them out!
