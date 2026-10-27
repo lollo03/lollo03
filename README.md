@@ -33,6 +33,7 @@ Don't forget to check out my [blog](https://www.lolloandr.com/blog/) and follow 
 - 📢 **NixOS and selfhosting** — Linux day Milano 2024 - [video](https://www.youtube.com/watch?v=6fpSQU_LQEU) [slides](https://slides.poul.org/2024/linux-day/un-nuovo-approccio-al-self-hosting/#/)
 - 🛠️ **Homelab course** — Politecnico of Milan 2025 - [video day 1](https://www.youtube.com/watch?v=XOUPMY81rnQ) [slides day 1](https://slides.poul.org/2025/homelab/homelab101/) [video day 2](https://www.youtube.com/watch?v=tgl-Oo65uE4) [slides day 2](https://slides.poul.org/2025/homelab/docker/#/)
 - 🔐 **Dal GDPR al Grande Fratello** — Linux day Milano 2025 — [video](https://www.youtube.com/watch?v=dbRoDOSBLG0) [slides](https://slides.poul.org/2025/linux-day/gdpr-chatcontrol/#/)
+- 📻 **Meshtastic 101** — Linux day Milano 2027 — [video](https://www.youtube.com/watch?v=7SVYErRiIU8) [slides](https://www.lolloandr.com/meshtastic-talk/)
 - (More coming soon!)
 
 > If you're interested, you can find slides and resources for some talks on my [blog](https://www.lolloandr.com/blog/)!
